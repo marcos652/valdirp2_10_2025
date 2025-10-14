@@ -1,0 +1,9 @@
+{
+    "name": "demo/solid-srpdemo",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
